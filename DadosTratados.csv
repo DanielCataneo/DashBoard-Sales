@@ -1,0 +1,1001 @@
+Categoria,Produto,Quantidade_Produzida, Custo_Producao , Receita ,Data_Producao,Regiao_Venda
+Alimentos,Milho,409,1941.89,6331.74,2023-01-02,Leste
+Alimentos,Milho,198,4914.98,4790.33,2023-01-02,Oeste
+Alimentos,Trigo,210,777.35,4399.13,2023-01-03,Leste
+Softwares,Software Educativo,177,1199.01,2441.33,2023-01-04,Leste
+Softwares,Software Educativo,287,2817.41,9979.49,2023-01-05,Leste
+Alimentos,Feijão,131,3649.81,4454.92,2023-01-06,Leste
+Alimentos,Soja,180,3197.83,7849.44,2023-01-07,Sul
+Alimentos,Soja,108,1422.86,7138.89,2023-01-08,Sul
+Componentes Eletrônicos,Transistor,100,4098.67,5610.04,2023-01-09,Leste
+Equipamentos de Automação,CLP,52,3497.57,7485.95,2023-01-10,Sul
+Softwares,Software Educativo,71,2958.82,8157.56,2023-01-11,Norte
+Componentes Eletrônicos,Diodo,118,2184.61,4496.3,2023-01-12,Sul
+Componentes Eletrônicos,Resistor,243,4795.47,9411.16,2023-01-13,Leste
+Softwares,Jogo,457,1100.43,3354.04,2023-01-14,Oeste
+Componentes Eletrônicos,Indutor,371,3122.0,6937.33,2023-01-15,Leste
+Equipamentos de Automação,Controlador Lógico,263,805.99,6973.91,2023-01-16,Leste
+Equipamentos de Automação,Atuador Pneumático,332,3023.07,8324.19,2023-01-17,Sul
+Softwares,Software Educativo,84,2545.36,9371.95,2023-01-18,Oeste
+Alimentos,Trigo,318,969.17,3531.4,2023-01-19,Norte
+Equipamentos de Automação,Atuador Pneumático,282,1340.72,9543.58,2023-01-20,Oeste
+Softwares,Plataforma de E-commerce,316,3580.65,2179.91,2023-01-21,Sul
+Alimentos,Arroz,201,2225.4,6204.15,2023-01-22,Norte
+Equipamentos de Automação,CLP,194,3269.68,4507.73,2023-01-23,Leste
+Softwares,Software Educativo,362,4342.51,3442.43,2023-01-24,Leste
+Equipamentos de Automação,Motor DC,307,2962.07,5934.48,2023-01-25,Oeste
+Equipamentos de Automação,Atuador Pneumático,151,1439.31,6965.95,2023-01-26,Norte
+Alimentos,Feijão,220,2086.95,2945.92,2023-01-27,Sul
+Softwares,Jogo,291,949.14,3161.07,2023-01-28,Sul
+Equipamentos de Automação,Sensor de Temperatura,493,2910.59,3212.88,2023-01-29,Oeste
+Softwares,Jogo,141,1559.73,1742.59,2023-01-30,Sul
+Alimentos,Trigo,361,3237.56,3438.99,2023-01-31,Oeste
+Softwares,Plataforma de E-commerce,244,2896.84,2404.12,2023-02-01,Norte
+Softwares,Ferramenta de BI,350,1412.68,1133.7,2023-02-02,Sul
+Componentes Eletrônicos,Resistor,417,1627.49,4619.67,2023-02-03,Oeste
+Equipamentos de Automação,CLP,444,2905.84,4571.62,2023-02-04,Leste
+Alimentos,Feijão,67,4566.74,1249.09,2023-02-05,Sul
+Componentes Eletrônicos,Diodo,151,1977.83,3590.61,2023-02-06,Oeste
+Softwares,Ferramenta de BI,258,4555.1,8706.51,2023-02-07,Norte
+Alimentos,Milho,183,2405.51,2664.75,2023-02-08,Sul
+Alimentos,Feijão,93,3288.11,8414.6,2023-02-09,Norte
+Componentes Eletrônicos,Indutor,424,4598.7,1204.71,2023-02-10,Oeste
+Equipamentos de Automação,Motor DC,277,1920.9,6151.32,2023-02-11,Leste
+Equipamentos de Automação,Controlador Lógico,157,4504.92,4718.79,2023-02-12,Oeste
+Softwares,App de Gestão,237,3217.42,1749.42,2023-02-13,Sul
+Equipamentos de Automação,Motor DC,89,4249.9,4378.09,2023-02-14,Norte
+Softwares,App de Gestão,186,2721.89,5975.78,2023-02-15,Oeste
+Alimentos,Soja,445,1025.66,6352.19,2023-02-16,Oeste
+Softwares,Software Educativo,328,1132.1,3502.43,2023-02-17,Norte
+Equipamentos de Automação,CLP,143,3367.54,5303.53,2023-02-18,Oeste
+Componentes Eletrônicos,Diodo,51,3761.0,6822.96,2023-02-19,Oeste
+Alimentos,Soja,187,2145.27,9739.16,2023-02-20,Leste
+Alimentos,Arroz,301,1867.35,6293.91,2023-02-21,Norte
+Equipamentos de Automação,Atuador Pneumático,73,3955.21,1298.31,2023-02-22,Oeste
+Softwares,Software Educativo,323,931.93,9773.47,2023-02-23,Leste
+Componentes Eletrônicos,Transistor,266,962.08,6891.32,2023-02-24,Leste
+Equipamentos de Automação,Atuador Pneumático,290,1645.32,8055.87,2023-02-25,Sul
+Softwares,Plataforma de E-commerce,123,3751.24,7844.69,2023-02-26,Oeste
+Alimentos,Feijão,178,2431.34,1134.52,2023-02-27,Norte
+Componentes Eletrônicos,Transistor,241,1031.13,5497.2,2023-02-28,Oeste
+Alimentos,Arroz,444,2173.35,6376.96,2023-03-01,Oeste
+Alimentos,Soja,391,3374.73,9438.91,2023-03-02,Norte
+Softwares,Ferramenta de BI,456,1001.34,5189.51,2023-03-03,Leste
+Equipamentos de Automação,Motor DC,60,2321.84,7858.01,2023-03-04,Sul
+Componentes Eletrônicos,Resistor,120,3878.27,4545.34,2023-03-05,Leste
+Componentes Eletrônicos,Capacitor,128,3046.84,7056.74,2023-03-06,Norte
+Softwares,App de Gestão,498,4586.87,2536.4,2023-03-07,Sul
+Softwares,Plataforma de E-commerce,212,1227.55,8034.32,2023-03-08,Leste
+Componentes Eletrônicos,Indutor,251,3937.56,5273.17,2023-03-09,Sul
+Softwares,App de Gestão,397,1168.2,6380.2,2023-03-10,Sul
+Equipamentos de Automação,Atuador Pneumático,172,545.79,7737.13,2023-03-11,Norte
+Softwares,Ferramenta de BI,304,4324.27,8521.13,2023-03-12,Oeste
+Alimentos,Arroz,235,2973.89,4307.78,2023-03-13,Leste
+Softwares,Ferramenta de BI,471,1847.04,1483.74,2023-03-14,Oeste
+Alimentos,Trigo,484,4089.94,5700.35,2023-03-15,Oeste
+Alimentos,Soja,403,513.0,8956.34,2023-03-16,Leste
+Alimentos,Trigo,346,1644.17,7279.53,2023-03-17,Sul
+Equipamentos de Automação,Atuador Pneumático,455,3377.07,8595.85,2023-03-18,Sul
+Equipamentos de Automação,Sensor de Temperatura,444,3521.98,3597.63,2023-03-19,Norte
+Componentes Eletrônicos,Resistor,279,1685.29,1627.02,2023-03-20,Sul
+Equipamentos de Automação,CLP,259,2046.81,1262.67,2023-03-21,Norte
+Softwares,Jogo,263,3168.62,7423.61,2023-03-22,Sul
+Softwares,Plataforma de E-commerce,484,4255.48,3336.95,2023-03-23,Leste
+Softwares,Jogo,236,4000.21,3848.12,2023-03-24,Oeste
+Componentes Eletrônicos,Transistor,67,690.91,3047.05,2023-03-25,Oeste
+Softwares,Plataforma de E-commerce,307,1300.05,4476.91,2023-03-26,Leste
+Softwares,Ferramenta de BI,271,3160.73,9271.71,2023-03-27,Leste
+Equipamentos de Automação,Atuador Pneumático,317,3796.07,2856.45,2023-03-28,Norte
+Equipamentos de Automação,Controlador Lógico,132,1556.01,6294.37,2023-03-29,Sul
+Softwares,Software Educativo,170,507.76,3098.53,2023-03-30,Oeste
+Equipamentos de Automação,Sensor de Temperatura,146,1153.13,2137.49,2023-03-31,Oeste
+Componentes Eletrônicos,Indutor,152,3213.59,7120.16,2023-04-01,Leste
+Softwares,Ferramenta de BI,459,2334.52,4770.58,2023-04-02,Oeste
+Softwares,Ferramenta de BI,423,1749.26,9873.91,2023-04-03,Oeste
+Softwares,Ferramenta de BI,131,2309.84,3547.39,2023-04-04,Leste
+Softwares,Ferramenta de BI,490,1060.08,3216.52,2023-04-05,Norte
+Softwares,Plataforma de E-commerce,118,4096.74,4975.81,2023-04-06,Leste
+Equipamentos de Automação,Motor DC,495,2995.87,7259.03,2023-04-07,Leste
+Componentes Eletrônicos,Resistor,171,4429.59,8411.83,2023-04-08,Leste
+Softwares,Ferramenta de BI,72,3228.1,9840.66,2023-04-09,Sul
+Softwares,Plataforma de E-commerce,64,1245.63,2071.94,2023-04-10,Oeste
+Alimentos,Milho,449,3252.91,8964.58,2023-04-11,Sul
+Componentes Eletrônicos,Resistor,370,1718.7,7690.0,2023-04-12,Norte
+Equipamentos de Automação,Atuador Pneumático,326,4613.38,9108.11,2023-04-13,Oeste
+Softwares,Plataforma de E-commerce,281,3102.25,2043.45,2023-04-14,Leste
+Componentes Eletrônicos,Diodo,68,2605.02,3313.51,2023-04-15,Leste
+Componentes Eletrônicos,Transistor,285,1707.55,9416.79,2023-04-16,Norte
+Equipamentos de Automação,Atuador Pneumático,159,2277.56,9471.84,2023-04-17,Leste
+Componentes Eletrônicos,Transistor,199,1056.76,7320.45,2023-04-18,Sul
+Equipamentos de Automação,CLP,217,3088.92,9018.07,2023-04-19,Leste
+Componentes Eletrônicos,Capacitor,422,3910.59,9820.9,2023-04-20,Norte
+Equipamentos de Automação,Controlador Lógico,141,1419.69,2524.97,2023-04-21,Sul
+Alimentos,Soja,392,635.9,1458.35,2023-04-22,Leste
+Componentes Eletrônicos,Resistor,387,4772.21,5962.49,2023-04-23,Sul
+Softwares,Jogo,254,4474.55,3828.82,2023-04-24,Norte
+Softwares,App de Gestão,96,2928.83,1116.05,2023-04-25,Norte
+Softwares,Plataforma de E-commerce,482,4152.66,8633.76,2023-04-26,Norte
+Equipamentos de Automação,CLP,50,2184.51,9307.2,2023-04-27,Sul
+Equipamentos de Automação,CLP,153,777.22,8081.56,2023-04-28,Leste
+Softwares,App de Gestão,165,1736.73,4194.11,2023-04-29,Oeste
+Equipamentos de Automação,CLP,409,3686.23,5835.68,2023-04-30,Sul
+Equipamentos de Automação,Sensor de Temperatura,223,913.84,2198.33,2023-05-01,Norte
+Softwares,App de Gestão,129,2245.48,9476.09,2023-05-02,Norte
+Componentes Eletrônicos,Transistor,227,1023.4,6502.42,2023-05-03,Norte
+Componentes Eletrônicos,Resistor,467,4159.82,3506.6,2023-05-04,Leste
+Componentes Eletrônicos,Resistor,402,2465.33,9665.08,2023-05-05,Oeste
+Componentes Eletrônicos,Resistor,177,4406.35,6900.04,2023-05-06,Leste
+Alimentos,Milho,418,4890.04,3305.82,2023-05-07,Sul
+Componentes Eletrônicos,Capacitor,169,2513.6,3376.84,2023-05-08,Sul
+Componentes Eletrônicos,Diodo,490,733.7,2722.36,2023-05-09,Norte
+Equipamentos de Automação,Atuador Pneumático,134,1902.38,9560.04,2023-05-10,Leste
+Equipamentos de Automação,Sensor de Temperatura,350,723.14,7465.83,2023-05-11,Sul
+Alimentos,Arroz,326,1295.2,2246.92,2023-05-12,Sul
+Componentes Eletrônicos,Transistor,399,4335.83,6166.34,2023-05-13,Sul
+Equipamentos de Automação,Atuador Pneumático,406,3208.55,9937.73,2023-05-14,Sul
+Componentes Eletrônicos,Indutor,297,738.29,1965.33,2023-05-15,Norte
+Softwares,App de Gestão,414,2048.61,5495.97,2023-05-16,Leste
+Softwares,Plataforma de E-commerce,480,1209.64,8706.61,2023-05-17,Leste
+Equipamentos de Automação,Atuador Pneumático,218,1895.25,5449.49,2023-05-18,Leste
+Alimentos,Milho,283,2764.42,5783.1,2023-05-19,Norte
+Alimentos,Milho,53,3945.15,9712.25,2023-05-20,Leste
+Alimentos,Soja,290,1550.0,8945.37,2023-05-21,Leste
+Softwares,Ferramenta de BI,289,4513.11,1702.67,2023-05-22,Sul
+Softwares,Plataforma de E-commerce,386,950.82,5662.63,2023-05-23,Sul
+Softwares,App de Gestão,382,2793.78,1655.79,2023-05-24,Oeste
+Softwares,Plataforma de E-commerce,293,1102.8,6672.97,2023-05-25,Norte
+Softwares,Plataforma de E-commerce,324,2149.77,4030.42,2023-05-26,Sul
+Equipamentos de Automação,Controlador Lógico,215,1581.62,8124.82,2023-05-27,Sul
+Equipamentos de Automação,Motor DC,412,1531.69,6927.69,2023-05-28,Sul
+Equipamentos de Automação,Motor DC,376,3172.32,1202.65,2023-05-29,Norte
+Componentes Eletrônicos,Transistor,444,1677.33,7136.37,2023-05-30,Norte
+Equipamentos de Automação,Controlador Lógico,182,4535.89,3946.74,2023-05-31,Norte
+Softwares,App de Gestão,201,3993.67,2753.87,2023-06-01,Sul
+Componentes Eletrônicos,Resistor,243,3246.65,6068.15,2023-06-02,Leste
+Componentes Eletrônicos,Diodo,72,4505.85,3376.72,2023-06-03,Norte
+Equipamentos de Automação,Motor DC,431,1874.52,6655.5,2023-06-04,Sul
+Alimentos,Soja,254,1650.28,4341.94,2023-06-05,Leste
+Softwares,App de Gestão,390,2893.97,6452.16,2023-06-06,Leste
+Alimentos,Soja,435,4015.19,7037.57,2023-06-07,Sul
+Equipamentos de Automação,Sensor de Temperatura,224,817.94,7871.41,2023-06-08,Leste
+Alimentos,Trigo,269,817.84,3345.24,2023-06-09,Norte
+Componentes Eletrônicos,Indutor,155,4840.87,3800.95,2023-06-10,Sul
+Componentes Eletrônicos,Transistor,363,2293.42,5852.92,2023-06-11,Oeste
+Equipamentos de Automação,Atuador Pneumático,71,2318.82,7012.92,2023-06-12,Oeste
+Alimentos,Trigo,255,864.42,7723.88,2023-06-13,Sul
+Softwares,Software Educativo,392,1944.57,2734.19,2023-06-14,Sul
+Equipamentos de Automação,Atuador Pneumático,319,3350.17,5445.32,2023-06-15,Norte
+Componentes Eletrônicos,Resistor,377,4469.8,7774.91,2023-06-16,Oeste
+Equipamentos de Automação,CLP,440,1383.28,1268.95,2023-06-17,Leste
+Componentes Eletrônicos,Transistor,92,4131.17,7071.82,2023-06-18,Oeste
+Componentes Eletrônicos,Diodo,305,2341.83,2190.72,2023-06-19,Norte
+Alimentos,Milho,421,2668.35,1657.49,2023-06-20,Oeste
+Alimentos,Arroz,52,4579.7,9340.45,2023-06-21,Sul
+Softwares,Ferramenta de BI,352,1347.72,9082.87,2023-06-22,Oeste
+Softwares,App de Gestão,275,1559.03,7561.48,2023-06-23,Sul
+Alimentos,Soja,169,1478.11,3211.57,2023-06-24,Sul
+Componentes Eletrônicos,Capacitor,339,2203.25,3137.49,2023-06-25,Norte
+Softwares,Software Educativo,462,2295.18,6766.14,2023-06-26,Sul
+Softwares,Software Educativo,178,4851.61,2935.97,2023-06-27,Oeste
+Equipamentos de Automação,CLP,167,1721.13,7975.99,2023-06-28,Oeste
+Softwares,Plataforma de E-commerce,271,2134.55,4141.25,2023-06-29,Sul
+Alimentos,Arroz,313,2166.14,6305.09,2023-06-30,Sul
+Componentes Eletrônicos,Diodo,442,1166.27,1654.97,2023-07-01,Leste
+Equipamentos de Automação,CLP,348,4287.36,9583.73,2023-07-02,Sul
+Componentes Eletrônicos,Diodo,293,3139.66,1741.15,2023-07-03,Norte
+Softwares,Jogo,330,1848.21,2322.26,2023-07-04,Oeste
+Alimentos,Arroz,214,858.58,8128.68,2023-07-05,Norte
+Alimentos,Feijão,458,1270.31,8547.66,2023-07-06,Norte
+Alimentos,Milho,357,4193.95,8519.57,2023-07-07,Sul
+Alimentos,Arroz,56,2911.28,4159.24,2023-07-08,Oeste
+Componentes Eletrônicos,Transistor,404,903.03,6331.22,2023-07-09,Sul
+Alimentos,Milho,381,3985.06,9201.02,2023-07-10,Sul
+Componentes Eletrônicos,Diodo,314,1225.14,8572.42,2023-07-11,Norte
+Alimentos,Milho,180,2521.5,2267.6,2023-07-12,Leste
+Equipamentos de Automação,Sensor de Temperatura,302,2014.28,4954.29,2023-07-13,Leste
+Softwares,App de Gestão,96,2999.82,7064.96,2023-07-14,Oeste
+Componentes Eletrônicos,Indutor,307,2391.02,6808.63,2023-07-15,Oeste
+Equipamentos de Automação,Atuador Pneumático,58,760.12,9592.92,2023-07-16,Oeste
+Equipamentos de Automação,Motor DC,388,4105.01,5741.21,2023-07-17,Norte
+Alimentos,Milho,69,2422.02,5711.76,2023-07-18,Sul
+Equipamentos de Automação,Sensor de Temperatura,420,1730.04,2817.73,2023-07-19,Norte
+Equipamentos de Automação,Controlador Lógico,291,1021.48,1373.47,2023-07-20,Norte
+Equipamentos de Automação,CLP,289,802.49,5013.03,2023-07-21,Sul
+Equipamentos de Automação,CLP,314,3698.52,2666.39,2023-07-22,Oeste
+Equipamentos de Automação,CLP,71,1126.37,3556.88,2023-07-23,Sul
+Equipamentos de Automação,Controlador Lógico,398,1232.11,5950.52,2023-07-24,Sul
+Equipamentos de Automação,Controlador Lógico,409,2225.59,1942.85,2023-07-25,Sul
+Equipamentos de Automação,Motor DC,361,940.51,2164.53,2023-07-26,Oeste
+Equipamentos de Automação,Atuador Pneumático,246,4878.44,3230.87,2023-07-27,Oeste
+Equipamentos de Automação,Controlador Lógico,206,509.3,5242.66,2023-07-28,Sul
+Alimentos,Trigo,281,4238.21,9584.9,2023-07-29,Norte
+Alimentos,Arroz,166,2373.04,1027.03,2023-07-30,Norte
+Softwares,App de Gestão,72,4831.99,7468.16,2023-07-31,Sul
+Equipamentos de Automação,Atuador Pneumático,85,2379.43,2178.25,2023-08-01,Leste
+Softwares,Software Educativo,136,1002.44,9331.11,2023-08-02,Norte
+Softwares,Jogo,349,946.6,5368.41,2023-08-03,Sul
+Softwares,Plataforma de E-commerce,366,2965.54,2905.38,2023-08-04,Sul
+Alimentos,Milho,180,1344.62,4081.04,2023-08-05,Norte
+Componentes Eletrônicos,Diodo,453,616.7,7857.59,2023-08-06,Norte
+Softwares,Jogo,422,3848.51,6378.51,2023-08-07,Norte
+Softwares,Ferramenta de BI,359,2758.2,4911.23,2023-08-08,Sul
+Componentes Eletrônicos,Indutor,463,1656.23,7625.59,2023-08-09,Sul
+Softwares,App de Gestão,251,2961.78,5704.79,2023-08-10,Norte
+Alimentos,Feijão,420,4218.59,6442.59,2023-08-11,Norte
+Softwares,App de Gestão,257,3869.17,8503.72,2023-08-12,Norte
+Equipamentos de Automação,CLP,348,2632.11,9049.03,2023-08-13,Leste
+Softwares,Plataforma de E-commerce,53,4271.46,3055.33,2023-08-14,Oeste
+Componentes Eletrônicos,Indutor,392,592.01,2074.21,2023-08-15,Leste
+Alimentos,Arroz,385,2106.39,2758.56,2023-08-16,Oeste
+Softwares,Jogo,203,1211.46,6489.31,2023-08-17,Norte
+Softwares,Software Educativo,493,4384.36,2860.18,2023-08-18,Sul
+Softwares,Plataforma de E-commerce,449,4934.33,9532.7,2023-08-19,Oeste
+Equipamentos de Automação,CLP,96,3872.94,9175.85,2023-08-20,Sul
+Softwares,Plataforma de E-commerce,80,2679.07,3267.99,2023-08-21,Sul
+Softwares,Plataforma de E-commerce,77,886.82,6546.64,2023-08-22,Norte
+Componentes Eletrônicos,Transistor,414,998.99,1154.47,2023-08-23,Leste
+Equipamentos de Automação,Motor DC,444,2669.38,3017.61,2023-08-24,Sul
+Softwares,Software Educativo,482,2854.33,8640.36,2023-08-25,Leste
+Equipamentos de Automação,Motor DC,207,2275.91,2071.27,2023-08-26,Leste
+Softwares,Plataforma de E-commerce,395,2745.53,1309.72,2023-08-27,Sul
+Equipamentos de Automação,CLP,365,2801.78,4409.84,2023-08-28,Norte
+Equipamentos de Automação,Controlador Lógico,404,2571.07,5827.68,2023-08-29,Norte
+Softwares,Ferramenta de BI,196,1621.21,2243.53,2023-08-30,Oeste
+Softwares,Software Educativo,194,3250.12,1373.48,2023-08-31,Sul
+Equipamentos de Automação,Sensor de Temperatura,412,3944.36,8089.76,2023-09-01,Leste
+Componentes Eletrônicos,Transistor,407,3780.48,9703.35,2023-09-02,Norte
+Softwares,Software Educativo,258,2523.63,6009.44,2023-09-03,Norte
+Equipamentos de Automação,Sensor de Temperatura,231,3656.7,9364.62,2023-09-04,Leste
+Alimentos,Feijão,52,2324.41,4983.03,2023-09-05,Leste
+Alimentos,Arroz,68,2705.99,5802.03,2023-09-06,Norte
+Alimentos,Arroz,116,4677.79,9904.56,2023-09-07,Oeste
+Alimentos,Milho,272,874.94,9635.28,2023-09-08,Sul
+Alimentos,Soja,127,4957.63,2299.83,2023-09-09,Leste
+Equipamentos de Automação,Controlador Lógico,159,3121.85,8108.3,2023-09-10,Norte
+Equipamentos de Automação,Motor DC,262,2433.77,2908.51,2023-09-11,Leste
+Componentes Eletrônicos,Capacitor,485,3515.64,9087.21,2023-09-12,Leste
+Softwares,Jogo,342,3741.72,7618.15,2023-09-13,Leste
+Alimentos,Soja,194,3353.88,2506.19,2023-09-14,Leste
+Equipamentos de Automação,Sensor de Temperatura,329,1864.67,2464.23,2023-09-15,Leste
+Componentes Eletrônicos,Transistor,290,3127.69,6060.31,2023-09-16,Sul
+Equipamentos de Automação,CLP,126,2519.83,4169.03,2023-09-17,Norte
+Softwares,Ferramenta de BI,451,3070.21,8660.79,2023-09-18,Leste
+Softwares,Plataforma de E-commerce,283,4964.5,9865.27,2023-09-19,Sul
+Equipamentos de Automação,Atuador Pneumático,365,2705.01,2517.53,2023-09-20,Sul
+Equipamentos de Automação,CLP,323,1369.58,2463.76,2023-09-21,Norte
+Softwares,Jogo,242,760.48,1687.66,2023-09-22,Leste
+Softwares,Software Educativo,473,2362.82,8818.02,2023-09-23,Sul
+Alimentos,Milho,173,2839.94,9101.82,2023-09-24,Leste
+Softwares,Jogo,76,3346.23,4224.76,2023-09-25,Oeste
+Componentes Eletrônicos,Diodo,110,1585.56,5709.65,2023-09-26,Oeste
+Alimentos,Soja,198,1145.53,5183.91,2023-09-27,Norte
+Equipamentos de Automação,CLP,418,1606.53,4628.71,2023-09-28,Oeste
+Equipamentos de Automação,Atuador Pneumático,240,912.54,5122.41,2023-09-29,Norte
+Equipamentos de Automação,Motor DC,89,3441.64,5330.84,2023-09-30,Norte
+Componentes Eletrônicos,Capacitor,231,4035.18,9032.35,2023-10-01,Norte
+Equipamentos de Automação,Motor DC,472,1417.68,2186.78,2023-10-02,Oeste
+Alimentos,Soja,98,4355.52,5870.55,2023-10-03,Oeste
+Softwares,Software Educativo,353,3190.35,5159.04,2023-10-04,Norte
+Componentes Eletrônicos,Indutor,222,2009.64,4126.18,2023-10-05,Leste
+Componentes Eletrônicos,Diodo,102,2224.85,4747.78,2023-10-06,Oeste
+Equipamentos de Automação,CLP,115,3211.83,8133.79,2023-10-07,Oeste
+Equipamentos de Automação,CLP,196,4408.94,3351.59,2023-10-08,Oeste
+Equipamentos de Automação,Motor DC,459,3000.88,2965.62,2023-10-09,Sul
+Equipamentos de Automação,Atuador Pneumático,75,3740.11,6608.08,2023-10-10,Norte
+Componentes Eletrônicos,Transistor,90,1983.07,1129.2,2023-10-11,Oeste
+Equipamentos de Automação,Sensor de Temperatura,446,4559.42,3092.63,2023-10-12,Leste
+Equipamentos de Automação,CLP,246,2318.67,5502.0,2023-10-13,Sul
+Softwares,Jogo,132,2426.44,2138.38,2023-10-14,Sul
+Equipamentos de Automação,Sensor de Temperatura,128,4284.31,6806.08,2023-10-15,Oeste
+Softwares,Ferramenta de BI,351,4088.2,5481.39,2023-10-16,Norte
+Componentes Eletrônicos,Transistor,451,4535.99,1739.6,2023-10-17,Norte
+Softwares,Plataforma de E-commerce,351,3972.71,1533.09,2023-10-18,Oeste
+Equipamentos de Automação,Motor DC,262,3275.67,2823.31,2023-10-19,Sul
+Equipamentos de Automação,Atuador Pneumático,450,1139.88,5588.57,2023-10-20,Oeste
+Equipamentos de Automação,Motor DC,431,2395.3,6683.22,2023-10-21,Norte
+Alimentos,Arroz,65,4717.21,4241.1,2023-10-22,Oeste
+Equipamentos de Automação,CLP,493,4709.71,1646.75,2023-10-23,Norte
+Componentes Eletrônicos,Diodo,245,1745.09,1452.75,2023-10-24,Sul
+Alimentos,Trigo,254,4605.12,1560.12,2023-10-25,Oeste
+Equipamentos de Automação,Controlador Lógico,180,2510.44,7208.38,2023-10-26,Oeste
+Softwares,Plataforma de E-commerce,67,987.42,8378.26,2023-10-27,Oeste
+Equipamentos de Automação,Atuador Pneumático,244,1572.85,8832.53,2023-10-28,Norte
+Equipamentos de Automação,Atuador Pneumático,139,1725.46,5492.87,2023-10-29,Leste
+Componentes Eletrônicos,Resistor,163,1499.21,2725.02,2023-10-30,Leste
+Equipamentos de Automação,CLP,378,2480.24,3867.3,2023-10-31,Sul
+Componentes Eletrônicos,Indutor,156,3739.83,2259.53,2023-11-01,Sul
+Alimentos,Trigo,484,3046.02,8458.28,2023-11-01,Norte
+Softwares,App de Gestão,225,4151.19,6173.93,2023-11-02,Leste
+Softwares,Ferramenta de BI,244,3599.74,2499.58,2023-11-02,Norte
+Componentes Eletrônicos,Capacitor,111,4033.53,7922.59,2023-11-03,Sul
+Alimentos,Arroz,167,1138.94,8383.22,2023-11-03,Leste
+Componentes Eletrônicos,Resistor,126,1323.03,7213.86,2023-11-04,Sul
+Softwares,Plataforma de E-commerce,192,3048.06,8573.49,2023-11-04,Leste
+Componentes Eletrônicos,Indutor,178,3090.13,6551.75,2023-11-05,Sul
+Softwares,Jogo,461,1410.95,4818.99,2023-11-05,Leste
+Componentes Eletrônicos,Diodo,471,4953.7,6997.69,2023-11-06,Oeste
+Equipamentos de Automação,Controlador Lógico,299,3609.94,6964.74,2023-11-06,Norte
+Alimentos,Feijão,152,1306.68,8133.19,2023-11-07,Norte
+Alimentos,Arroz,308,732.19,6715.04,2023-11-07,Oeste
+Alimentos,Feijão,95,4405.92,4661.53,2023-11-08,Sul
+Equipamentos de Automação,Controlador Lógico,276,4328.17,5427.68,2023-11-08,Sul
+Softwares,Plataforma de E-commerce,325,4940.05,9350.51,2023-11-09,Leste
+Componentes Eletrônicos,Diodo,250,1044.02,9335.79,2023-11-09,Norte
+Equipamentos de Automação,Atuador Pneumático,364,4631.11,2728.3,2023-11-10,Oeste
+Componentes Eletrônicos,Indutor,401,2798.3,4921.48,2023-11-10,Sul
+Equipamentos de Automação,Atuador Pneumático,389,3576.56,7582.82,2023-11-11,Norte
+Alimentos,Soja,214,4900.75,5301.93,2023-11-11,Leste
+Equipamentos de Automação,Atuador Pneumático,191,2417.15,9083.25,2023-11-12,Norte
+Softwares,Software Educativo,280,2020.67,6196.61,2023-11-12,Sul
+Equipamentos de Automação,CLP,171,4162.85,8187.44,2023-11-13,Sul
+Softwares,Plataforma de E-commerce,79,1406.27,2769.63,2023-11-13,Oeste
+Alimentos,Milho,230,4246.45,1026.81,2023-11-14,Oeste
+Softwares,App de Gestão,392,4832.03,1419.49,2023-11-14,Leste
+Alimentos,Milho,476,3516.27,3970.32,2023-11-15,Leste
+Equipamentos de Automação,Controlador Lógico,79,2769.43,8348.06,2023-11-15,Leste
+Equipamentos de Automação,Motor DC,492,3184.74,6101.87,2023-11-16,Oeste
+Alimentos,Milho,226,2031.31,8553.41,2023-11-16,Norte
+Softwares,Ferramenta de BI,330,854.24,6774.84,2023-11-17,Leste
+Alimentos,Arroz,413,1860.66,7402.48,2023-11-17,Norte
+Equipamentos de Automação,Controlador Lógico,415,2657.89,4172.81,2023-11-18,Sul
+Alimentos,Trigo,224,1238.49,7101.53,2023-11-18,Sul
+Equipamentos de Automação,Sensor de Temperatura,144,717.83,7625.13,2023-11-19,Oeste
+Softwares,App de Gestão,207,3418.35,7642.96,2023-11-19,Norte
+Alimentos,Feijão,492,3906.26,3253.58,2023-11-20,Oeste
+Componentes Eletrônicos,Transistor,366,2787.54,4385.87,2023-11-20,Sul
+Equipamentos de Automação,Sensor de Temperatura,176,798.34,2834.28,2023-11-21,Sul
+Alimentos,Trigo,86,1868.3,7497.32,2023-11-21,Norte
+Componentes Eletrônicos,Resistor,452,2787.34,5364.21,2023-11-22,Norte
+Alimentos,Trigo,103,1562.05,1241.54,2023-11-22,Sul
+Equipamentos de Automação,Atuador Pneumático,397,4651.26,2795.71,2023-11-23,Sul
+Equipamentos de Automação,Sensor de Temperatura,83,906.04,7673.44,2023-11-23,Leste
+Alimentos,Milho,459,3918.93,8870.35,2023-11-24,Oeste
+Componentes Eletrônicos,Transistor,412,1418.4,6327.52,2023-11-24,Norte
+Alimentos,Arroz,218,2139.54,8656.65,2023-11-25,Sul
+Alimentos,Trigo,302,595.3,7747.47,2023-11-25,Norte
+Softwares,Plataforma de E-commerce,216,2980.04,3667.69,2023-11-26,Norte
+Componentes Eletrônicos,Indutor,188,1877.66,4635.59,2023-11-26,Leste
+Softwares,Ferramenta de BI,62,902.11,5943.73,2023-11-27,Oeste
+Componentes Eletrônicos,Indutor,308,2143.14,3220.38,2023-11-27,Norte
+Componentes Eletrônicos,Transistor,425,4390.78,9282.95,2023-11-28,Oeste
+Softwares,Plataforma de E-commerce,313,3154.62,7370.98,2023-11-28,Oeste
+Alimentos,Soja,309,4556.73,8049.16,2023-11-29,Oeste
+Equipamentos de Automação,CLP,137,4692.49,2026.4,2023-11-29,Sul
+Alimentos,Milho,497,4377.04,4741.93,2023-11-30,Oeste
+Alimentos,Arroz,319,3683.91,3890.73,2023-11-30,Oeste
+Componentes Eletrônicos,Diodo,136,2295.73,7924.94,2023-12-01,Norte
+Softwares,Software Educativo,268,2548.9,2734.75,2023-12-01,Sul
+Componentes Eletrônicos,Resistor,201,2814.51,9918.38,2023-12-02,Norte
+Componentes Eletrônicos,Transistor,442,2516.59,8659.09,2023-12-02,Leste
+Equipamentos de Automação,Atuador Pneumático,452,1618.07,6636.35,2023-12-03,Oeste
+Alimentos,Trigo,419,1188.49,7295.15,2023-12-03,Norte
+Alimentos,Soja,428,4673.28,5091.02,2023-12-04,Oeste
+Softwares,Ferramenta de BI,464,1192.5,1931.36,2023-12-04,Leste
+Componentes Eletrônicos,Transistor,419,3108.66,5619.13,2023-12-05,Oeste
+Alimentos,Soja,267,1928.81,7681.52,2023-12-05,Norte
+Alimentos,Milho,306,1700.37,8927.06,2023-12-06,Leste
+Softwares,Plataforma de E-commerce,124,2025.84,7032.2,2023-12-06,Sul
+Alimentos,Soja,359,1257.16,4075.82,2023-12-07,Norte
+Componentes Eletrônicos,Transistor,445,3385.64,8674.08,2023-12-07,Sul
+Componentes Eletrônicos,Capacitor,273,992.22,1883.29,2023-12-08,Leste
+Softwares,Jogo,250,1133.55,1786.85,2023-12-08,Oeste
+Softwares,Software Educativo,263,4722.82,5414.17,2023-12-09,Oeste
+Componentes Eletrônicos,Indutor,185,806.07,3712.07,2023-12-09,Norte
+Componentes Eletrônicos,Resistor,174,2735.44,4255.22,2023-12-10,Leste
+Alimentos,Feijão,195,990.22,4924.96,2023-12-10,Sul
+Softwares,Ferramenta de BI,447,4572.47,4971.99,2023-12-11,Norte
+Alimentos,Soja,69,898.27,9419.46,2023-12-11,Norte
+Componentes Eletrônicos,Capacitor,440,1206.6,9501.16,2023-12-12,Oeste
+Equipamentos de Automação,CLP,225,2286.23,5904.81,2023-12-12,Oeste
+Componentes Eletrônicos,Transistor,107,4015.28,5361.12,2023-12-13,Norte
+Equipamentos de Automação,Atuador Pneumático,289,2819.34,1702.29,2023-12-13,Leste
+Softwares,Ferramenta de BI,490,4606.23,1472.2,2023-12-14,Leste
+Softwares,Plataforma de E-commerce,428,1838.68,5704.58,2023-12-14,Leste
+Equipamentos de Automação,CLP,395,4128.39,1422.48,2023-12-15,Leste
+Alimentos,Feijão,158,4322.09,2719.37,2023-12-15,Oeste
+Softwares,App de Gestão,202,3923.73,8903.91,2023-12-16,Leste
+Equipamentos de Automação,Motor DC,163,4776.01,2001.31,2023-12-16,Leste
+Softwares,App de Gestão,184,4548.9,9798.81,2023-12-17,Oeste
+Softwares,App de Gestão,125,723.67,1363.65,2023-12-17,Oeste
+Equipamentos de Automação,Controlador Lógico,446,699.77,3229.04,2023-12-18,Sul
+Alimentos,Milho,344,4429.66,4541.52,2023-12-18,Norte
+Componentes Eletrônicos,Capacitor,139,3409.77,5031.66,2023-12-19,Sul
+Equipamentos de Automação,Motor DC,466,1053.69,3617.64,2023-12-19,Leste
+Softwares,App de Gestão,366,1675.52,1873.9,2023-12-20,Norte
+Equipamentos de Automação,Controlador Lógico,59,3177.31,6272.04,2023-12-20,Sul
+Equipamentos de Automação,Sensor de Temperatura,432,4171.44,2845.89,2023-12-21,Sul
+Componentes Eletrônicos,Indutor,84,2276.99,9102.99,2023-12-21,Norte
+Alimentos,Trigo,305,1478.12,3777.51,2023-12-22,Sul
+Equipamentos de Automação,Motor DC,207,567.44,5065.15,2023-12-22,Oeste
+Componentes Eletrônicos,Transistor,430,1599.8,8075.25,2023-12-23,Leste
+Softwares,Software Educativo,125,838.55,2275.94,2023-12-23,Leste
+Softwares,App de Gestão,327,3554.54,4539.59,2023-12-24,Norte
+Softwares,Ferramenta de BI,460,1937.36,8082.51,2023-12-24,Sul
+Alimentos,Soja,436,2546.0,3954.52,2023-12-25,Sul
+Equipamentos de Automação,Sensor de Temperatura,87,962.34,4456.04,2023-12-25,Oeste
+Softwares,Plataforma de E-commerce,179,4691.14,4366.31,2023-12-26,Leste
+Alimentos,Soja,231,3091.0,9561.62,2023-12-26,Sul
+Alimentos,Milho,161,902.51,2083.78,2023-12-27,Norte
+Equipamentos de Automação,CLP,324,1654.34,4560.42,2023-12-27,Norte
+Componentes Eletrônicos,Resistor,213,1629.47,2258.19,2023-12-28,Oeste
+Alimentos,Feijão,496,2324.52,9541.42,2023-12-28,Oeste
+Alimentos,Trigo,132,2536.82,9711.01,2023-12-29,Oeste
+Componentes Eletrônicos,Capacitor,413,2804.17,7397.55,2023-12-29,Leste
+Componentes Eletrônicos,Indutor,378,2720.53,8983.23,2023-12-30,Leste
+Alimentos,Feijão,206,3497.56,7365.33,2023-12-30,Norte
+Componentes Eletrônicos,Resistor,53,726.59,3065.1,2023-12-31,Norte
+Alimentos,Feijão,56,3873.35,1509.23,2023-12-31,Oeste
+Alimentos,Soja,61,3803.25,9348.32,2024-01-01,Oeste
+Equipamentos de Automação,CLP,301,1460.9,6502.61,2024-01-01,Oeste
+Alimentos,Soja,123,1604.22,9437.59,2024-01-02,Norte
+Componentes Eletrônicos,Indutor,462,3263.46,3789.55,2024-01-02,Norte
+Equipamentos de Automação,CLP,499,2185.2,4811.81,2024-01-03,Norte
+Softwares,App de Gestão,268,1777.35,5071.57,2024-01-03,Oeste
+Alimentos,Arroz,198,2632.41,3252.23,2024-01-04,Leste
+Equipamentos de Automação,Atuador Pneumático,159,3950.9,2569.96,2024-01-04,Norte
+Componentes Eletrônicos,Transistor,281,4108.9,1826.8,2024-01-05,Sul
+Alimentos,Soja,109,2740.98,1538.15,2024-01-05,Oeste
+Alimentos,Soja,139,1035.06,6904.2,2024-01-06,Sul
+Equipamentos de Automação,Sensor de Temperatura,475,847.48,3253.67,2024-01-06,Norte
+Equipamentos de Automação,Atuador Pneumático,379,4957.97,1627.58,2024-01-07,Leste
+Componentes Eletrônicos,Indutor,188,4284.0,5170.75,2024-01-07,Oeste
+Alimentos,Arroz,91,961.86,1001.29,2024-01-08,Sul
+Softwares,Ferramenta de BI,224,4355.32,2300.16,2024-01-08,Sul
+Softwares,Plataforma de E-commerce,92,2367.44,4730.49,2024-01-09,Leste
+Softwares,Jogo,61,4912.43,3873.44,2024-01-09,Oeste
+Softwares,Jogo,403,2155.57,4442.05,2024-01-10,Oeste
+Componentes Eletrônicos,Capacitor,189,4445.68,5421.11,2024-01-10,Sul
+Softwares,App de Gestão,295,4353.01,7510.63,2024-01-11,Norte
+Equipamentos de Automação,CLP,255,2844.74,5887.11,2024-01-11,Oeste
+Alimentos,Trigo,205,552.16,7376.94,2024-01-12,Norte
+Equipamentos de Automação,Controlador Lógico,350,3659.31,7759.55,2024-01-12,Norte
+Equipamentos de Automação,Controlador Lógico,149,3903.44,4053.1,2024-01-13,Leste
+Equipamentos de Automação,Atuador Pneumático,200,3740.24,4811.85,2024-01-13,Oeste
+Equipamentos de Automação,Atuador Pneumático,281,3849.99,1966.72,2024-01-14,Norte
+Softwares,Ferramenta de BI,476,1552.29,2190.61,2024-01-14,Norte
+Equipamentos de Automação,Controlador Lógico,495,3521.0,7576.02,2024-01-15,Sul
+Alimentos,Soja,285,517.24,1045.36,2024-01-15,Leste
+Equipamentos de Automação,Controlador Lógico,350,3875.39,2951.32,2024-01-16,Sul
+Componentes Eletrônicos,Diodo,461,912.49,6835.3,2024-01-16,Leste
+Equipamentos de Automação,Atuador Pneumático,494,2067.55,3436.18,2024-01-17,Oeste
+Softwares,Software Educativo,336,2540.3,5604.25,2024-01-17,Leste
+Equipamentos de Automação,Sensor de Temperatura,358,4038.14,2561.27,2024-01-18,Leste
+Alimentos,Milho,300,2793.56,6179.66,2024-01-18,Oeste
+Componentes Eletrônicos,Indutor,353,1906.76,7110.95,2024-01-19,Norte
+Equipamentos de Automação,Atuador Pneumático,255,4863.36,3310.64,2024-01-19,Norte
+Softwares,Software Educativo,497,1519.05,9383.56,2024-01-20,Oeste
+Alimentos,Feijão,271,1276.63,4896.69,2024-01-20,Oeste
+Alimentos,Arroz,191,1512.17,2193.12,2024-01-21,Oeste
+Alimentos,Arroz,325,4097.87,1903.97,2024-01-21,Leste
+Equipamentos de Automação,Atuador Pneumático,70,2920.08,9906.14,2024-01-22,Sul
+Equipamentos de Automação,CLP,488,4148.83,4141.02,2024-01-22,Leste
+Alimentos,Arroz,78,1504.69,8808.81,2024-01-23,Leste
+Alimentos,Soja,445,4957.45,2011.84,2024-01-23,Oeste
+Softwares,Software Educativo,382,3401.33,6753.41,2024-01-24,Norte
+Alimentos,Milho,373,3151.92,1423.0,2024-01-24,Norte
+Softwares,App de Gestão,290,1966.61,6864.16,2024-01-25,Sul
+Componentes Eletrônicos,Indutor,206,794.23,4652.9,2024-01-25,Norte
+Alimentos,Trigo,259,3163.91,1844.34,2024-01-26,Sul
+Equipamentos de Automação,Controlador Lógico,233,3721.59,6866.29,2024-01-26,Sul
+Alimentos,Soja,274,3595.8,7444.23,2024-01-27,Oeste
+Equipamentos de Automação,Sensor de Temperatura,206,3549.78,9504.25,2024-01-27,Sul
+Equipamentos de Automação,Sensor de Temperatura,469,3465.59,9658.91,2024-01-28,Norte
+Equipamentos de Automação,Sensor de Temperatura,85,4873.11,4674.4,2024-01-28,Leste
+Softwares,Software Educativo,272,2898.97,7384.71,2024-01-29,Leste
+Softwares,Jogo,238,2786.73,2410.76,2024-01-29,Leste
+Equipamentos de Automação,Motor DC,304,2589.7,2807.87,2024-01-30,Oeste
+Softwares,Software Educativo,485,1729.23,8919.7,2024-01-30,Leste
+Equipamentos de Automação,CLP,141,3024.87,9274.99,2024-01-31,Norte
+Softwares,Ferramenta de BI,346,685.56,3220.39,2024-01-31,Norte
+Softwares,Ferramenta de BI,495,4167.74,6928.48,2024-02-01,Leste
+Equipamentos de Automação,CLP,378,4331.8,5828.78,2024-02-01,Sul
+Softwares,Software Educativo,78,1455.91,9189.52,2024-02-02,Oeste
+Equipamentos de Automação,Motor DC,109,1264.0,8510.9,2024-02-02,Sul
+Alimentos,Soja,393,3033.35,4994.49,2024-02-03,Sul
+Equipamentos de Automação,Motor DC,234,1082.56,5378.24,2024-02-03,Norte
+Equipamentos de Automação,Sensor de Temperatura,359,2930.34,9211.82,2024-02-04,Norte
+Softwares,Jogo,79,3679.16,4362.5,2024-02-04,Sul
+Softwares,Plataforma de E-commerce,103,4092.98,8290.69,2024-02-05,Oeste
+Componentes Eletrônicos,Indutor,408,2658.52,3216.79,2024-02-05,Oeste
+Softwares,Ferramenta de BI,92,1808.13,5660.37,2024-02-06,Leste
+Equipamentos de Automação,Atuador Pneumático,255,2159.83,2666.68,2024-02-06,Oeste
+Componentes Eletrônicos,Transistor,74,4511.4,7118.42,2024-02-07,Oeste
+Alimentos,Soja,134,4686.0,1304.77,2024-02-07,Norte
+Componentes Eletrônicos,Capacitor,321,514.64,2283.42,2024-02-08,Oeste
+Componentes Eletrônicos,Resistor,134,1833.25,2952.36,2024-02-08,Norte
+Softwares,Jogo,191,3704.25,2756.2,2024-02-09,Norte
+Alimentos,Feijão,403,518.69,8033.56,2024-02-09,Norte
+Alimentos,Soja,107,4757.31,7175.19,2024-02-10,Norte
+Softwares,Ferramenta de BI,107,4304.3,7275.82,2024-02-10,Norte
+Softwares,Plataforma de E-commerce,149,1202.27,3213.55,2024-02-11,Oeste
+Softwares,Plataforma de E-commerce,346,2555.39,5005.89,2024-02-11,Norte
+Equipamentos de Automação,Sensor de Temperatura,116,1875.98,7755.99,2024-02-12,Leste
+Equipamentos de Automação,Sensor de Temperatura,298,1939.6,4536.43,2024-02-12,Leste
+Alimentos,Trigo,471,2588.08,8906.08,2024-02-13,Leste
+Alimentos,Soja,236,1345.75,7122.61,2024-02-13,Sul
+Softwares,App de Gestão,255,621.61,6747.6,2024-02-14,Norte
+Alimentos,Arroz,162,4861.81,3400.23,2024-02-14,Norte
+Equipamentos de Automação,CLP,475,4172.55,6776.94,2024-02-15,Leste
+Componentes Eletrônicos,Capacitor,252,4189.31,2924.8,2024-02-15,Oeste
+Componentes Eletrônicos,Resistor,158,2043.78,8904.91,2024-02-16,Oeste
+Equipamentos de Automação,Motor DC,213,3039.16,3180.43,2024-02-16,Sul
+Componentes Eletrônicos,Indutor,339,3066.59,2583.65,2024-02-17,Leste
+Alimentos,Soja,260,4683.4,2006.51,2024-02-17,Norte
+Alimentos,Trigo,437,2250.11,5966.73,2024-02-18,Oeste
+Softwares,App de Gestão,478,2888.25,6742.45,2024-02-18,Leste
+Alimentos,Trigo,457,4707.98,5162.5,2024-02-19,Leste
+Alimentos,Trigo,296,1023.63,5125.3,2024-02-19,Norte
+Softwares,Jogo,288,3254.28,6364.45,2024-02-20,Oeste
+Softwares,Plataforma de E-commerce,352,948.59,4522.28,2024-02-20,Norte
+Equipamentos de Automação,Controlador Lógico,413,1343.9,6535.63,2024-02-21,Oeste
+Alimentos,Trigo,261,2234.42,9980.72,2024-02-21,Leste
+Componentes Eletrônicos,Capacitor,409,1205.75,6898.7,2024-02-22,Leste
+Equipamentos de Automação,Atuador Pneumático,198,2156.82,2025.52,2024-02-22,Oeste
+Componentes Eletrônicos,Transistor,208,3658.27,8685.57,2024-02-23,Sul
+Equipamentos de Automação,Atuador Pneumático,277,4189.44,2672.33,2024-02-23,Norte
+Componentes Eletrônicos,Capacitor,325,1909.09,3867.76,2024-02-24,Oeste
+Componentes Eletrônicos,Indutor,173,3131.89,5653.35,2024-02-24,Sul
+Componentes Eletrônicos,Transistor,196,2254.6,2950.45,2024-02-25,Leste
+Alimentos,Arroz,384,1483.37,7411.95,2024-02-25,Norte
+Equipamentos de Automação,Motor DC,424,993.6,1004.08,2024-02-26,Sul
+Alimentos,Milho,66,1913.31,8777.3,2024-02-26,Sul
+Equipamentos de Automação,Motor DC,252,2750.31,7064.36,2024-02-27,Leste
+Softwares,Jogo,67,752.65,7338.52,2024-02-27,Leste
+Componentes Eletrônicos,Transistor,467,529.81,6411.17,2024-02-28,Sul
+Softwares,Plataforma de E-commerce,308,4102.03,1155.51,2024-02-28,Sul
+Alimentos,Soja,470,4035.21,4352.22,2024-02-29,Leste
+Alimentos,Milho,359,1937.6,8527.54,2024-02-29,Sul
+Componentes Eletrônicos,Diodo,181,4496.11,3076.69,2024-03-01,Leste
+Componentes Eletrônicos,Diodo,181,955.77,3150.86,2024-03-01,Sul
+Alimentos,Feijão,413,2376.04,5374.44,2024-03-02,Norte
+Alimentos,Trigo,411,1933.02,9595.52,2024-03-02,Oeste
+Softwares,Plataforma de E-commerce,367,2926.5,2135.6,2024-03-03,Leste
+Componentes Eletrônicos,Resistor,485,968.66,8607.32,2024-03-03,Sul
+Equipamentos de Automação,Motor DC,207,3720.22,2450.48,2024-03-04,Sul
+Softwares,Ferramenta de BI,233,1386.58,4088.89,2024-03-04,Leste
+Equipamentos de Automação,Controlador Lógico,421,754.48,9409.89,2024-03-05,Sul
+Componentes Eletrônicos,Diodo,396,519.98,8638.13,2024-03-05,Sul
+Softwares,Software Educativo,342,3571.78,9586.91,2024-03-06,Oeste
+Alimentos,Trigo,442,2602.29,4319.37,2024-03-06,Norte
+Componentes Eletrônicos,Capacitor,257,4823.53,1496.6,2024-03-07,Oeste
+Componentes Eletrônicos,Indutor,237,3067.25,1645.79,2024-03-07,Sul
+Equipamentos de Automação,Motor DC,87,4161.89,1758.26,2024-03-08,Sul
+Equipamentos de Automação,Atuador Pneumático,317,3057.11,3591.11,2024-03-08,Norte
+Equipamentos de Automação,Sensor de Temperatura,339,1791.87,7959.82,2024-03-09,Oeste
+Softwares,Jogo,491,3739.8,4868.44,2024-03-09,Norte
+Equipamentos de Automação,CLP,386,3731.18,2910.05,2024-03-10,Leste
+Componentes Eletrônicos,Resistor,62,2392.02,5767.31,2024-03-10,Sul
+Componentes Eletrônicos,Diodo,83,4243.02,8902.81,2024-03-11,Norte
+Alimentos,Trigo,438,3582.98,6115.52,2024-03-11,Norte
+Equipamentos de Automação,Sensor de Temperatura,257,1179.79,4349.36,2024-03-12,Oeste
+Componentes Eletrônicos,Resistor,448,780.29,6026.55,2024-03-12,Sul
+Softwares,App de Gestão,191,1623.22,3096.1,2024-03-13,Leste
+Softwares,Plataforma de E-commerce,123,4432.67,1708.27,2024-03-13,Oeste
+Softwares,Plataforma de E-commerce,353,894.09,2703.11,2024-03-14,Oeste
+Softwares,Plataforma de E-commerce,86,4071.85,5249.47,2024-03-14,Norte
+Alimentos,Soja,431,1722.59,8133.26,2024-03-15,Leste
+Softwares,App de Gestão,365,3430.02,2049.93,2024-03-15,Norte
+Componentes Eletrônicos,Indutor,256,4870.86,7905.11,2024-03-16,Leste
+Equipamentos de Automação,Atuador Pneumático,143,1256.92,3453.53,2024-03-16,Norte
+Componentes Eletrônicos,Resistor,196,3071.15,8462.21,2024-03-17,Oeste
+Softwares,Ferramenta de BI,182,1411.43,4739.02,2024-03-17,Leste
+Alimentos,Arroz,363,1092.48,6281.63,2024-03-18,Sul
+Alimentos,Milho,430,1075.23,9291.9,2024-03-18,Oeste
+Equipamentos de Automação,Sensor de Temperatura,75,4763.2,7236.19,2024-03-19,Oeste
+Componentes Eletrônicos,Transistor,491,4836.53,1975.97,2024-03-19,Norte
+Componentes Eletrônicos,Resistor,405,4517.02,3418.15,2024-03-20,Norte
+Softwares,Software Educativo,385,1779.65,4990.13,2024-03-20,Sul
+Softwares,Jogo,229,3965.9,1923.49,2024-03-21,Norte
+Softwares,Jogo,92,2373.34,5788.08,2024-03-21,Norte
+Softwares,Jogo,85,4048.81,9266.63,2024-03-22,Sul
+Softwares,Software Educativo,436,1258.46,9307.66,2024-03-22,Leste
+Componentes Eletrônicos,Indutor,152,2368.56,2796.3,2024-03-23,Oeste
+Softwares,Ferramenta de BI,433,1885.65,2943.67,2024-03-23,Norte
+Equipamentos de Automação,Atuador Pneumático,488,3334.77,5440.48,2024-03-24,Oeste
+Alimentos,Soja,391,2060.62,3149.76,2024-03-24,Norte
+Softwares,App de Gestão,265,3544.74,4227.57,2024-03-25,Sul
+Equipamentos de Automação,CLP,113,1776.67,2455.07,2024-03-25,Norte
+Alimentos,Arroz,151,4051.42,9846.26,2024-03-26,Oeste
+Softwares,Ferramenta de BI,471,2471.5,3452.91,2024-03-26,Oeste
+Alimentos,Soja,360,1883.3,5389.69,2024-03-27,Norte
+Softwares,Ferramenta de BI,111,769.02,8650.84,2024-03-27,Sul
+Softwares,Jogo,422,2838.9,9171.46,2024-03-28,Oeste
+Softwares,Ferramenta de BI,213,3359.98,7903.67,2024-03-28,Norte
+Softwares,Ferramenta de BI,84,2042.47,9831.02,2024-03-29,Leste
+Alimentos,Trigo,486,2942.42,6222.33,2024-03-29,Leste
+Equipamentos de Automação,Sensor de Temperatura,248,3345.56,1740.28,2024-03-30,Leste
+Softwares,Ferramenta de BI,99,738.75,5736.16,2024-03-30,Oeste
+Softwares,Ferramenta de BI,464,2450.83,8615.91,2024-03-31,Norte
+Alimentos,Soja,248,4302.89,7431.78,2024-03-31,Sul
+Alimentos,Trigo,55,3987.76,2573.05,2024-04-01,Sul
+Componentes Eletrônicos,Diodo,420,2640.76,5664.86,2024-04-01,Leste
+Alimentos,Feijão,388,821.99,9723.47,2024-04-02,Oeste
+Componentes Eletrônicos,Resistor,458,4012.15,5803.1,2024-04-02,Leste
+Softwares,Software Educativo,161,2555.18,4112.74,2024-04-03,Norte
+Softwares,Jogo,491,4489.0,6948.45,2024-04-03,Norte
+Componentes Eletrônicos,Transistor,251,3503.91,3282.66,2024-04-04,Sul
+Softwares,App de Gestão,134,653.31,4055.73,2024-04-04,Oeste
+Alimentos,Soja,122,3720.78,1434.11,2024-04-05,Norte
+Componentes Eletrônicos,Diodo,462,592.51,1718.47,2024-04-05,Leste
+Equipamentos de Automação,CLP,484,2813.62,1336.02,2024-04-06,Oeste
+Equipamentos de Automação,Sensor de Temperatura,116,4100.37,3252.63,2024-04-06,Oeste
+Equipamentos de Automação,Motor DC,313,3990.83,4006.13,2024-04-07,Norte
+Alimentos,Feijão,67,3330.13,4508.11,2024-04-07,Sul
+Softwares,Software Educativo,169,1656.57,8194.65,2024-04-08,Sul
+Alimentos,Arroz,279,2419.27,6948.67,2024-04-08,Leste
+Alimentos,Soja,220,4497.83,4666.17,2024-04-09,Oeste
+Componentes Eletrônicos,Indutor,74,1604.54,2413.28,2024-04-09,Sul
+Componentes Eletrônicos,Diodo,388,1841.0,9611.1,2024-04-10,Oeste
+Softwares,Software Educativo,458,2004.28,2804.28,2024-04-10,Leste
+Softwares,App de Gestão,269,3246.64,9796.49,2024-04-11,Norte
+Softwares,Jogo,247,1912.13,4796.97,2024-04-11,Oeste
+Equipamentos de Automação,Sensor de Temperatura,474,1839.74,4674.32,2024-04-12,Oeste
+Componentes Eletrônicos,Diodo,444,3241.04,4763.87,2024-04-12,Oeste
+Softwares,Software Educativo,397,4216.41,8219.03,2024-04-13,Oeste
+Equipamentos de Automação,Controlador Lógico,284,1024.9,9448.34,2024-04-13,Norte
+Equipamentos de Automação,Sensor de Temperatura,498,1817.98,1692.71,2024-04-14,Oeste
+Equipamentos de Automação,Motor DC,375,899.23,7086.84,2024-04-14,Sul
+Softwares,Ferramenta de BI,262,1885.55,9426.55,2024-04-15,Oeste
+Alimentos,Trigo,250,3156.6,7184.59,2024-04-15,Oeste
+Alimentos,Trigo,166,1407.27,6559.88,2024-04-16,Sul
+Equipamentos de Automação,Sensor de Temperatura,100,3452.94,3165.3,2024-04-16,Sul
+Softwares,Jogo,63,3600.28,2852.42,2024-04-17,Oeste
+Softwares,Ferramenta de BI,306,4511.9,7084.98,2024-04-17,Leste
+Componentes Eletrônicos,Capacitor,407,4306.01,8398.43,2024-04-18,Oeste
+Softwares,Ferramenta de BI,151,2507.95,8282.67,2024-04-18,Oeste
+Alimentos,Soja,220,3847.03,4325.82,2024-04-19,Sul
+Componentes Eletrônicos,Transistor,218,3773.64,7023.88,2024-04-19,Oeste
+Softwares,App de Gestão,283,3494.69,7678.56,2024-04-20,Norte
+Softwares,Software Educativo,476,1270.07,6647.15,2024-04-20,Leste
+Alimentos,Milho,235,3852.66,6608.18,2024-04-21,Sul
+Softwares,App de Gestão,80,1867.07,5351.74,2024-04-21,Norte
+Equipamentos de Automação,Atuador Pneumático,344,2074.38,6729.11,2024-04-22,Leste
+Componentes Eletrônicos,Transistor,84,3492.9,4289.63,2024-04-22,Sul
+Alimentos,Arroz,336,1266.38,9164.28,2024-04-23,Norte
+Softwares,Jogo,119,1511.55,9329.18,2024-04-23,Sul
+Softwares,App de Gestão,167,2413.58,4875.47,2024-04-24,Oeste
+Equipamentos de Automação,Controlador Lógico,264,4645.49,7145.04,2024-04-24,Leste
+Alimentos,Arroz,75,724.29,4793.13,2024-04-25,Leste
+Alimentos,Trigo,440,2202.85,3448.97,2024-04-25,Norte
+Alimentos,Soja,291,1894.75,9889.37,2024-04-26,Sul
+Equipamentos de Automação,Controlador Lógico,460,4731.88,8768.0,2024-04-26,Sul
+Componentes Eletrônicos,Transistor,80,3093.38,6014.0,2024-04-27,Sul
+Equipamentos de Automação,Atuador Pneumático,322,2254.87,3032.88,2024-04-27,Leste
+Softwares,App de Gestão,260,1832.63,8866.03,2024-04-28,Norte
+Componentes Eletrônicos,Capacitor,73,1158.21,6142.81,2024-04-28,Leste
+Softwares,Plataforma de E-commerce,223,2899.64,6624.54,2024-04-29,Norte
+Softwares,Plataforma de E-commerce,146,2131.8,4830.47,2024-04-29,Leste
+Alimentos,Feijão,224,2967.03,9138.94,2024-04-30,Leste
+Componentes Eletrônicos,Transistor,173,4127.56,8265.29,2024-04-30,Oeste
+Softwares,App de Gestão,102,1752.11,8280.89,2024-05-01,Sul
+Softwares,App de Gestão,216,2846.34,7672.44,2024-05-01,Norte
+Alimentos,Arroz,467,2393.92,6450.35,2024-05-02,Sul
+Equipamentos de Automação,Sensor de Temperatura,287,3174.56,6159.34,2024-05-02,Norte
+Softwares,App de Gestão,443,3425.31,7207.32,2024-05-03,Oeste
+Alimentos,Soja,478,2203.75,8634.26,2024-05-03,Leste
+Softwares,Ferramenta de BI,276,3022.49,2527.12,2024-05-04,Sul
+Alimentos,Milho,419,2726.68,7553.83,2024-05-04,Leste
+Componentes Eletrônicos,Resistor,402,3475.75,6580.4,2024-05-05,Norte
+Equipamentos de Automação,Motor DC,208,3101.41,3017.13,2024-05-05,Oeste
+Softwares,Jogo,280,1176.86,4205.11,2024-05-06,Leste
+Alimentos,Feijão,460,4604.05,7396.67,2024-05-06,Norte
+Softwares,Plataforma de E-commerce,64,4029.01,6089.13,2024-05-07,Oeste
+Alimentos,Soja,433,4389.82,7769.4,2024-05-07,Oeste
+Softwares,Plataforma de E-commerce,285,4980.57,2273.52,2024-05-08,Sul
+Alimentos,Feijão,397,1798.15,1324.54,2024-05-08,Norte
+Componentes Eletrônicos,Diodo,494,3434.51,4054.16,2024-05-09,Sul
+Equipamentos de Automação,Atuador Pneumático,221,4320.21,3241.19,2024-05-09,Leste
+Equipamentos de Automação,Sensor de Temperatura,238,1760.18,5807.58,2024-05-10,Norte
+Componentes Eletrônicos,Diodo,65,2426.81,7062.24,2024-05-10,Oeste
+Equipamentos de Automação,Atuador Pneumático,382,4528.59,3306.26,2024-05-11,Sul
+Alimentos,Arroz,133,3269.56,5724.97,2024-05-11,Oeste
+Equipamentos de Automação,Motor DC,402,667.95,7539.76,2024-05-12,Leste
+Softwares,Jogo,206,4707.5,1051.93,2024-05-12,Sul
+Softwares,App de Gestão,289,1633.59,8912.91,2024-05-13,Norte
+Componentes Eletrônicos,Resistor,321,4182.39,2460.64,2024-05-13,Leste
+Alimentos,Trigo,371,1268.83,1539.67,2024-05-14,Oeste
+Componentes Eletrônicos,Diodo,444,4173.06,2957.76,2024-05-14,Norte
+Alimentos,Soja,88,3692.17,1334.16,2024-05-15,Sul
+Componentes Eletrônicos,Resistor,267,3791.08,2529.93,2024-05-15,Sul
+Componentes Eletrônicos,Transistor,134,2748.25,6465.84,2024-05-16,Norte
+Componentes Eletrônicos,Capacitor,173,2306.9,7104.18,2024-05-16,Sul
+Componentes Eletrônicos,Resistor,353,2107.36,2867.58,2024-05-17,Norte
+Equipamentos de Automação,Atuador Pneumático,373,3832.57,2619.99,2024-05-17,Leste
+Equipamentos de Automação,Motor DC,278,1741.19,8399.39,2024-05-18,Norte
+Softwares,Ferramenta de BI,434,2266.84,3312.01,2024-05-18,Sul
+Softwares,App de Gestão,88,1681.02,7229.0,2024-05-19,Oeste
+Softwares,Plataforma de E-commerce,206,2864.43,6575.04,2024-05-19,Oeste
+Softwares,Plataforma de E-commerce,195,1148.97,4598.07,2024-05-20,Leste
+Alimentos,Milho,238,2638.05,2500.87,2024-05-20,Sul
+Equipamentos de Automação,Atuador Pneumático,221,3725.85,7277.16,2024-05-21,Norte
+Componentes Eletrônicos,Indutor,167,1172.24,7644.03,2024-05-21,Leste
+Equipamentos de Automação,Controlador Lógico,477,2102.5,3682.03,2024-05-22,Leste
+Componentes Eletrônicos,Resistor,150,3599.03,1402.91,2024-05-22,Leste
+Softwares,Plataforma de E-commerce,287,2923.91,5931.93,2024-05-23,Leste
+Softwares,Software Educativo,375,3219.81,4172.26,2024-05-23,Oeste
+Componentes Eletrônicos,Capacitor,308,4023.1,6319.77,2024-05-24,Sul
+Componentes Eletrônicos,Transistor,349,3770.1,2187.98,2024-05-24,Norte
+Equipamentos de Automação,CLP,471,3748.95,4167.49,2024-05-25,Leste
+Alimentos,Feijão,137,1017.4,8750.37,2024-05-25,Oeste
+Equipamentos de Automação,Atuador Pneumático,108,1089.72,1706.88,2024-05-26,Norte
+Equipamentos de Automação,Atuador Pneumático,473,930.44,4367.42,2024-05-26,Norte
+Componentes Eletrônicos,Transistor,256,2808.82,8799.54,2024-05-27,Oeste
+Equipamentos de Automação,CLP,131,3933.75,8060.19,2024-05-27,Sul
+Componentes Eletrônicos,Resistor,284,2639.03,6773.76,2024-05-28,Leste
+Softwares,Ferramenta de BI,66,4228.2,7492.9,2024-05-28,Leste
+Componentes Eletrônicos,Indutor,152,3411.7,5313.09,2024-05-29,Leste
+Componentes Eletrônicos,Resistor,232,2256.21,1895.85,2024-05-29,Oeste
+Alimentos,Trigo,258,2860.6,8014.16,2024-05-30,Norte
+Alimentos,Trigo,128,4489.19,9956.61,2024-05-30,Norte
+Equipamentos de Automação,Controlador Lógico,217,3712.57,2692.2,2024-05-31,Norte
+Componentes Eletrônicos,Resistor,293,1337.95,1755.36,2024-05-31,Oeste
+Componentes Eletrônicos,Capacitor,410,3391.43,4649.3,2024-06-01,Leste
+Softwares,App de Gestão,225,2353.88,7881.44,2024-06-01,Sul
+Componentes Eletrônicos,Diodo,65,636.12,1526.52,2024-06-02,Leste
+Componentes Eletrônicos,Transistor,401,2389.14,9200.69,2024-06-02,Oeste
+Alimentos,Trigo,345,2429.23,7730.11,2024-06-03,Leste
+Alimentos,Trigo,171,3853.14,5442.16,2024-06-03,Leste
+Componentes Eletrônicos,Resistor,335,4453.84,1748.48,2024-06-04,Leste
+Equipamentos de Automação,Motor DC,249,2094.16,1342.71,2024-06-04,Norte
+Alimentos,Milho,422,3057.11,4374.09,2024-06-05,Norte
+Alimentos,Arroz,79,2945.67,6760.32,2024-06-05,Sul
+Alimentos,Soja,449,3827.44,5878.48,2024-06-06,Sul
+Componentes Eletrônicos,Transistor,213,829.39,7717.93,2024-06-06,Sul
+Softwares,Ferramenta de BI,340,1896.88,6713.45,2024-06-07,Sul
+Equipamentos de Automação,CLP,327,4013.94,4602.53,2024-06-07,Norte
+Alimentos,Soja,295,4042.85,7008.01,2024-06-08,Leste
+Componentes Eletrônicos,Indutor,261,1549.58,6429.01,2024-06-08,Norte
+Equipamentos de Automação,Controlador Lógico,128,3723.82,3757.56,2024-06-09,Leste
+Componentes Eletrônicos,Resistor,406,1115.73,1512.52,2024-06-09,Leste
+Equipamentos de Automação,Atuador Pneumático,173,3502.64,4433.16,2024-06-10,Norte
+Alimentos,Feijão,179,3895.17,4017.28,2024-06-10,Oeste
+Equipamentos de Automação,Atuador Pneumático,133,1931.46,6678.34,2024-06-11,Leste
+Alimentos,Trigo,131,4060.22,2471.67,2024-06-11,Oeste
+Softwares,App de Gestão,217,2935.19,3514.88,2024-06-12,Leste
+Componentes Eletrônicos,Transistor,171,1507.16,8409.84,2024-06-12,Norte
+Alimentos,Soja,398,4364.64,8657.93,2024-06-13,Norte
+Softwares,Ferramenta de BI,294,4889.71,2411.39,2024-06-13,Oeste
+Softwares,App de Gestão,305,4017.55,1539.08,2024-06-14,Sul
+Equipamentos de Automação,CLP,481,4636.17,5278.49,2024-06-14,Sul
+Equipamentos de Automação,Motor DC,211,661.15,5589.12,2024-06-15,Oeste
+Alimentos,Milho,364,1915.13,6075.36,2024-06-15,Sul
+Equipamentos de Automação,Sensor de Temperatura,349,1700.58,6097.22,2024-06-16,Norte
+Softwares,App de Gestão,118,1978.22,7753.96,2024-06-16,Norte
+Componentes Eletrônicos,Diodo,69,4148.93,5285.21,2024-06-17,Oeste
+Componentes Eletrônicos,Indutor,402,1225.87,6334.96,2024-06-17,Norte
+Componentes Eletrônicos,Diodo,397,4686.68,7499.59,2024-06-18,Norte
+Alimentos,Feijão,382,2682.21,5964.57,2024-06-18,Oeste
+Equipamentos de Automação,Sensor de Temperatura,168,2721.39,1781.69,2024-06-19,Norte
+Componentes Eletrônicos,Transistor,492,858.68,1389.55,2024-06-19,Leste
+Softwares,Jogo,103,3876.83,8394.48,2024-06-20,Sul
+Equipamentos de Automação,Controlador Lógico,490,4070.45,4836.63,2024-06-20,Norte
+Componentes Eletrônicos,Capacitor,106,4251.87,3567.26,2024-06-21,Leste
+Softwares,Ferramenta de BI,249,3613.98,9068.42,2024-06-21,Norte
+Equipamentos de Automação,Motor DC,115,1487.33,8787.79,2024-06-22,Leste
+Equipamentos de Automação,Sensor de Temperatura,425,3504.6,7491.06,2024-06-22,Oeste
+Equipamentos de Automação,CLP,83,2029.04,9576.97,2024-06-23,Oeste
+Equipamentos de Automação,Sensor de Temperatura,397,2734.78,6859.93,2024-06-23,Sul
+Softwares,App de Gestão,218,1268.66,7169.82,2024-06-24,Oeste
+Alimentos,Arroz,264,4722.27,3531.29,2024-06-24,Norte
+Softwares,Software Educativo,421,2959.43,5177.67,2024-06-25,Leste
+Componentes Eletrônicos,Resistor,243,2948.71,9302.86,2024-06-25,Sul
+Alimentos,Feijão,203,2802.1,9224.92,2024-06-26,Sul
+Equipamentos de Automação,Atuador Pneumático,143,3749.86,7161.26,2024-06-26,Leste
+Componentes Eletrônicos,Diodo,474,3130.82,1015.96,2024-06-27,Norte
+Componentes Eletrônicos,Resistor,305,1461.49,8860.82,2024-06-27,Leste
+Equipamentos de Automação,Controlador Lógico,420,4485.14,5969.24,2024-06-28,Oeste
+Equipamentos de Automação,Motor DC,466,4471.62,6479.9,2024-06-28,Oeste
+Alimentos,Milho,260,2112.27,6864.49,2024-06-29,Norte
+Componentes Eletrônicos,Capacitor,248,678.53,8089.38,2024-06-29,Leste
+Alimentos,Milho,101,4762.31,7654.13,2024-06-30,Oeste
+Componentes Eletrônicos,Indutor,108,1800.65,4331.81,2024-06-30,Oeste
+Componentes Eletrônicos,Transistor,424,2604.75,7028.91,2024-07-01,Norte
+Componentes Eletrônicos,Indutor,196,2224.27,2028.76,2024-07-01,Leste
+Equipamentos de Automação,Atuador Pneumático,358,833.13,5118.15,2024-07-02,Sul
+Alimentos,Feijão,343,4389.52,7660.45,2024-07-02,Norte
+Equipamentos de Automação,Controlador Lógico,108,4138.93,7614.35,2024-07-03,Norte
+Componentes Eletrônicos,Resistor,302,3280.29,6589.74,2024-07-03,Norte
+Softwares,Ferramenta de BI,287,3962.02,8014.61,2024-07-04,Oeste
+Componentes Eletrônicos,Indutor,417,3295.9,5143.6,2024-07-04,Oeste
+Equipamentos de Automação,Sensor de Temperatura,350,885.37,1157.37,2024-07-05,Oeste
+Componentes Eletrônicos,Transistor,185,2035.33,4132.56,2024-07-05,Sul
+Softwares,Software Educativo,187,3281.83,2600.93,2024-07-06,Leste
+Componentes Eletrônicos,Transistor,93,3414.19,1497.88,2024-07-06,Leste
+Softwares,Ferramenta de BI,405,3569.76,8662.9,2024-07-07,Oeste
+Equipamentos de Automação,CLP,499,1660.06,3910.16,2024-07-07,Leste
+Componentes Eletrônicos,Resistor,66,4557.64,7340.97,2024-07-08,Sul
+Componentes Eletrônicos,Resistor,485,4902.31,1138.03,2024-07-08,Leste
+Alimentos,Arroz,293,4539.03,1806.27,2024-07-09,Leste
+Componentes Eletrônicos,Transistor,311,2870.42,1538.66,2024-07-09,Norte
+Softwares,App de Gestão,285,1658.75,3048.39,2024-07-10,Sul
+Alimentos,Soja,149,2504.22,2409.23,2024-07-10,Sul
+Componentes Eletrônicos,Capacitor,291,846.84,3866.71,2024-07-11,Sul
+Alimentos,Trigo,223,2802.7,9250.58,2024-07-11,Norte
+Alimentos,Milho,312,4295.48,6675.47,2024-07-12,Norte
+Softwares,App de Gestão,175,697.47,3204.95,2024-07-12,Oeste
+Softwares,Software Educativo,154,4306.25,6393.58,2024-07-13,Leste
+Alimentos,Trigo,278,4029.91,6117.96,2024-07-13,Oeste
+Componentes Eletrônicos,Diodo,362,1022.83,4754.27,2024-07-14,Leste
+Equipamentos de Automação,CLP,465,4892.99,1462.34,2024-07-14,Leste
+Componentes Eletrônicos,Diodo,446,3460.79,7567.25,2024-07-15,Norte
+Alimentos,Milho,89,2354.89,7425.47,2024-07-15,Norte
+Alimentos,Trigo,128,1290.21,2288.59,2024-07-16,Norte
+Alimentos,Arroz,187,4829.76,7169.62,2024-07-16,Norte
+Softwares,Software Educativo,441,2900.5,2237.24,2024-07-17,Norte
+Componentes Eletrônicos,Resistor,402,1787.39,7062.61,2024-07-17,Oeste
+Equipamentos de Automação,Atuador Pneumático,393,1001.0,5725.12,2024-07-18,Oeste
+Alimentos,Milho,169,2614.02,9936.1,2024-07-18,Norte
+Softwares,Jogo,394,1352.4,7310.76,2024-07-19,Oeste
+Componentes Eletrônicos,Indutor,77,4624.1,5770.6,2024-07-19,Sul
+Softwares,App de Gestão,152,3231.0,9420.53,2024-07-20,Leste
+Alimentos,Milho,449,1442.56,8391.5,2024-07-20,Norte
+Alimentos,Feijão,279,4035.94,3871.42,2024-07-21,Sul
+Alimentos,Feijão,399,1681.55,1360.36,2024-07-21,Norte
+Alimentos,Feijão,262,3016.83,5331.73,2024-07-22,Oeste
+Alimentos,Soja,468,838.83,3869.0,2024-07-22,Leste
+Alimentos,Milho,385,1575.79,9823.99,2024-07-23,Oeste
+Alimentos,Soja,120,2150.51,5726.28,2024-07-23,Leste
+Equipamentos de Automação,CLP,392,1356.04,8184.46,2024-07-24,Oeste
+Softwares,Jogo,187,4242.05,2709.71,2024-07-24,Oeste
+Alimentos,Feijão,313,4714.05,2880.44,2024-07-25,Norte
+Equipamentos de Automação,CLP,460,3304.41,2325.28,2024-07-25,Norte
+Equipamentos de Automação,CLP,389,4348.61,5585.01,2024-07-26,Sul
+Equipamentos de Automação,Controlador Lógico,411,3040.95,5746.96,2024-07-26,Norte
+Alimentos,Feijão,428,2258.18,7155.67,2024-07-27,Leste
+Equipamentos de Automação,Atuador Pneumático,183,4511.31,5870.97,2024-07-27,Sul
+Alimentos,Soja,493,2784.38,4316.13,2024-07-28,Norte
+Softwares,Ferramenta de BI,372,3284.65,5617.72,2024-07-28,Oeste
+Componentes Eletrônicos,Resistor,120,4215.58,8244.43,2024-07-29,Oeste
+Equipamentos de Automação,CLP,201,4449.45,5126.67,2024-07-29,Sul
+Equipamentos de Automação,Controlador Lógico,368,3214.77,1058.42,2024-07-30,Leste
+Componentes Eletrônicos,Diodo,441,4380.02,1940.18,2024-07-30,Norte
+Alimentos,Soja,303,957.86,6692.1,2024-07-31,Norte
+Alimentos,Trigo,134,3008.91,6237.04,2024-07-31,Leste
+Equipamentos de Automação,CLP,345,1364.19,6272.21,2024-08-01,Norte
+Softwares,Ferramenta de BI,105,3352.39,9240.09,2024-08-01,Leste
+Equipamentos de Automação,Motor DC,65,3646.19,6216.86,2024-08-02,Sul
+Componentes Eletrônicos,Indutor,446,4222.38,6366.18,2024-08-02,Oeste
+Softwares,Software Educativo,481,850.86,4475.79,2024-08-03,Norte
+Softwares,Plataforma de E-commerce,83,4440.89,2880.78,2024-08-03,Oeste
+Componentes Eletrônicos,Capacitor,176,1400.74,9087.26,2024-08-04,Leste
+Alimentos,Milho,358,1633.75,4326.06,2024-08-04,Sul
+Componentes Eletrônicos,Capacitor,418,4436.89,9390.25,2024-08-05,Sul
+Componentes Eletrônicos,Transistor,233,2934.86,2006.74,2024-08-05,Sul
+Alimentos,Soja,410,2760.36,6725.26,2024-08-06,Norte
+Componentes Eletrônicos,Resistor,293,1922.99,6015.42,2024-08-06,Oeste
+Alimentos,Feijão,432,4812.06,5615.69,2024-08-07,Sul
+Softwares,Plataforma de E-commerce,279,2373.35,8663.86,2024-08-07,Leste
+Componentes Eletrônicos,Capacitor,209,1260.33,2670.75,2024-08-08,Leste
+Componentes Eletrônicos,Resistor,375,4943.95,2315.27,2024-08-08,Norte
+Softwares,Jogo,321,2658.92,6242.14,2024-08-09,Leste
+Softwares,Plataforma de E-commerce,499,4669.56,2497.24,2024-08-09,Oeste
+Equipamentos de Automação,Sensor de Temperatura,384,4151.67,6989.82,2024-08-10,Norte
+Alimentos,Trigo,241,4842.6,1163.38,2024-08-10,Leste
+Alimentos,Soja,321,2461.6,9162.96,2024-08-11,Norte
+Alimentos,Soja,53,4741.46,8507.82,2024-08-11,Leste
+Componentes Eletrônicos,Transistor,360,1909.2,9987.7,2024-08-12,Norte
+Equipamentos de Automação,Motor DC,93,3168.06,7619.03,2024-08-12,Norte
+Componentes Eletrônicos,Transistor,343,4203.65,8391.4,2024-08-13,Leste
+Softwares,Jogo,142,2963.35,6622.4,2024-08-13,Norte
+Softwares,Plataforma de E-commerce,152,3871.84,4459.86,2024-08-14,Norte
+Componentes Eletrônicos,Capacitor,299,2459.26,4333.89,2024-08-14,Norte
+Equipamentos de Automação,Controlador Lógico,96,4919.84,9333.5,2024-08-15,Sul
+Equipamentos de Automação,Atuador Pneumático,135,1943.78,1031.05,2024-08-15,Oeste
+Alimentos,Milho,178,1194.71,2259.65,2024-08-16,Leste
+Softwares,Software Educativo,483,4343.68,7238.95,2024-08-16,Leste
+Equipamentos de Automação,Sensor de Temperatura,83,2134.83,9506.46,2024-08-17,Sul
+Equipamentos de Automação,Atuador Pneumático,347,4324.47,2084.17,2024-08-17,Norte
+Softwares,Plataforma de E-commerce,456,4735.37,5585.44,2024-08-18,Norte
+Softwares,Software Educativo,129,2780.75,6020.57,2024-08-18,Norte
+Softwares,Software Educativo,122,1011.76,2810.75,2024-08-19,Norte
+Softwares,Ferramenta de BI,136,2426.85,7560.39,2024-08-19,Sul
+Softwares,App de Gestão,493,1427.27,7567.22,2024-08-20,Leste
+Equipamentos de Automação,CLP,62,3214.52,6285.63,2024-08-20,Leste
+Componentes Eletrônicos,Diodo,255,2551.74,5483.92,2024-08-21,Sul
+Softwares,Plataforma de E-commerce,147,1240.16,7856.96,2024-08-21,Norte
+Equipamentos de Automação,Controlador Lógico,456,504.28,9592.52,2024-08-22,Oeste
+Equipamentos de Automação,Sensor de Temperatura,355,4424.45,6635.41,2024-08-22,Oeste
+Equipamentos de Automação,Motor DC,283,3157.96,5805.17,2024-08-23,Leste
+Alimentos,Trigo,343,1416.88,4174.3,2024-08-23,Oeste
+Equipamentos de Automação,Atuador Pneumático,356,2134.82,9274.77,2024-08-24,Leste
+Alimentos,Feijão,212,1643.36,7633.94,2024-08-24,Sul
+Componentes Eletrônicos,Resistor,199,4883.95,5682.6,2024-08-25,Sul
+Softwares,Plataforma de E-commerce,304,2929.08,5580.14,2024-08-25,Leste
+Equipamentos de Automação,CLP,383,1123.89,9161.87,2024-08-26,Norte
+Equipamentos de Automação,Controlador Lógico,156,1461.55,1090.92,2024-08-26,Norte
+Componentes Eletrônicos,Capacitor,498,1710.31,8455.01,2024-08-27,Leste
+Alimentos,Soja,329,2467.14,3619.31,2024-08-27,Leste
+Componentes Eletrônicos,Indutor,76,4838.93,5807.52,2024-08-28,Norte
+Componentes Eletrônicos,Transistor,477,592.31,6694.1,2024-08-28,Oeste
+Componentes Eletrônicos,Capacitor,314,3879.88,6986.62,2024-08-29,Leste
+Componentes Eletrônicos,Resistor,256,1269.59,4022.86,2024-08-29,Oeste
+Alimentos,Feijão,463,3765.89,3616.28,2024-08-30,Leste
+Alimentos,Trigo,58,927.45,8069.07,2024-08-30,Norte
+Alimentos,Soja,445,2127.36,5357.24,2024-08-31,Sul
+Componentes Eletrônicos,Transistor,272,881.32,4141.79,2024-08-31,Leste
+Componentes Eletrônicos,Indutor,361,1767.03,4150.14,2024-09-01,Oeste
+Softwares,App de Gestão,202,1702.06,6858.13,2024-09-01,Leste
+Softwares,Plataforma de E-commerce,260,785.05,1339.73,2024-09-02,Norte
+Componentes Eletrônicos,Transistor,155,2057.09,7398.21,2024-09-02,Norte
+Softwares,Plataforma de E-commerce,344,993.26,4889.22,2024-09-03,Norte
+Equipamentos de Automação,Motor DC,443,4465.82,4891.09,2024-09-03,Leste
+Alimentos,Trigo,339,3768.75,2141.78,2024-09-04,Norte
+Equipamentos de Automação,Controlador Lógico,243,738.5,4643.2,2024-09-04,Norte
+Componentes Eletrônicos,Indutor,413,1976.65,4707.06,2024-09-05,Oeste
+Alimentos,Feijão,338,1441.83,5441.22,2024-09-05,Leste
+Equipamentos de Automação,Sensor de Temperatura,188,799.01,1092.83,2024-09-06,Norte
+Componentes Eletrônicos,Diodo,143,1302.99,3471.58,2024-09-06,Oeste
+Alimentos,Milho,386,2930.46,5097.5,2024-09-07,Oeste
+Componentes Eletrônicos,Indutor,86,4709.65,3536.35,2024-09-07,Norte
+Equipamentos de Automação,Controlador Lógico,174,638.13,2626.99,2024-09-08,Oeste
+Equipamentos de Automação,Controlador Lógico,388,3071.71,6996.79,2024-09-08,Sul
+Componentes Eletrônicos,Resistor,96,2390.05,4098.77,2024-09-09,Sul
+Equipamentos de Automação,CLP,148,1761.34,6633.59,2024-09-09,Leste
+Softwares,Software Educativo,92,3232.62,7659.87,2024-09-10,Norte
+Componentes Eletrônicos,Transistor,441,3687.11,2112.61,2024-09-10,Oeste
+Equipamentos de Automação,Sensor de Temperatura,76,2539.64,7187.31,2024-09-11,Norte
+Equipamentos de Automação,Motor DC,329,4122.97,6031.21,2024-09-11,Norte
+Equipamentos de Automação,Atuador Pneumático,166,4000.51,8032.61,2024-09-12,Sul
+Softwares,Jogo,231,1518.75,2856.31,2024-09-12,Oeste
+Equipamentos de Automação,Sensor de Temperatura,311,4463.83,7919.67,2024-09-13,Oeste
+Componentes Eletrônicos,Resistor,174,2528.54,3292.21,2024-09-13,Oeste
+Alimentos,Feijão,196,4489.91,8289.46,2024-09-14,Oeste
+Alimentos,Milho,392,2486.65,9312.49,2024-09-14,Sul
+Componentes Eletrônicos,Resistor,476,3640.28,1148.08,2024-09-15,Sul
+Equipamentos de Automação,Sensor de Temperatura,215,2985.17,7376.21,2024-09-15,Sul
+Alimentos,Milho,147,543.74,3808.99,2024-09-16,Sul
+Softwares,App de Gestão,193,725.52,4460.86,2024-09-16,Oeste
+Softwares,Software Educativo,179,1964.95,7224.57,2024-09-17,Oeste
+Softwares,Ferramenta de BI,372,3074.24,9564.42,2024-09-17,Oeste
+Equipamentos de Automação,CLP,485,2212.29,7017.51,2024-09-18,Norte
+Componentes Eletrônicos,Diodo,82,4371.91,3450.42,2024-09-18,Leste
+Softwares,Software Educativo,299,2476.91,4613.74,2024-09-19,Sul
+Softwares,Software Educativo,383,3644.19,6633.93,2024-09-19,Leste
+Componentes Eletrônicos,Transistor,366,1540.53,6582.39,2024-09-20,Sul
+Alimentos,Soja,301,566.81,5423.03,2024-09-20,Leste
+Alimentos,Soja,241,4259.32,2304.15,2024-09-21,Norte
+Softwares,Software Educativo,481,4568.39,2874.79,2024-09-21,Sul
+Equipamentos de Automação,Atuador Pneumático,54,1196.56,7526.53,2024-09-22,Leste
+Softwares,Plataforma de E-commerce,268,862.12,1360.5,2024-09-22,Leste
+Alimentos,Soja,425,1667.53,3682.84,2024-09-23,Leste
+Equipamentos de Automação,CLP,126,4232.47,7770.23,2024-09-23,Leste
+Softwares,Jogo,301,1706.43,5539.65,2024-09-24,Oeste
+Softwares,Ferramenta de BI,202,1583.81,1555.77,2024-09-24,Leste
+Alimentos,Feijão,389,1068.0,1495.06,2024-09-25,Oeste
+Componentes Eletrônicos,Capacitor,464,2565.5,5777.62,2024-09-25,Leste
+Equipamentos de Automação,Motor DC,450,4805.91,9071.51,2024-09-26,Norte
+Equipamentos de Automação,CLP,394,4847.71,3641.41,2024-09-27,Oeste
+Softwares,Software Educativo,393,2634.07,3476.63,2024-09-28,Leste
+Componentes Eletrônicos,Indutor,355,4030.84,5864.67,2024-09-29,Leste
+Equipamentos de Automação,Atuador Pneumático,55,3904.82,8985.95,2024-09-30,Leste
+Alimentos,Soja,305,980.87,4179.18,2024-10-01,Leste
+Equipamentos de Automação,Motor DC,235,3453.24,9173.34,2024-10-02,Leste
+Alimentos,Milho,258,948.46,3807.78,2024-10-03,Leste
+Equipamentos de Automação,Controlador Lógico,65,1442.34,2914.92,2024-10-04,Sul
+Softwares,Ferramenta de BI,342,4450.29,7876.29,2024-10-05,Sul
+Softwares,Software Educativo,489,4634.82,3835.05,2024-10-06,Leste
+Softwares,Ferramenta de BI,446,3463.76,4452.62,2024-10-07,Oeste
+Softwares,Plataforma de E-commerce,115,3842.03,5067.65,2024-10-08,Oeste
+Componentes Eletrônicos,Indutor,433,1966.91,4430.84,2024-10-09,Norte
+Componentes Eletrônicos,Transistor,444,4712.61,6301.34,2024-10-10,Sul
+Componentes Eletrônicos,Transistor,56,1074.54,9538.39,2024-10-11,Leste
+Equipamentos de Automação,Sensor de Temperatura,54,2359.4,9735.15,2024-10-12,Leste
+Alimentos,Feijão,374,2147.34,7385.02,2024-10-13,Norte
+Softwares,Jogo,245,1658.28,3817.41,2024-10-14,Norte
+Componentes Eletrônicos,Resistor,228,2072.83,3346.29,2024-10-15,Sul
+Softwares,Software Educativo,211,2312.08,7048.46,2024-10-16,Norte
+Alimentos,Soja,366,3764.85,5971.93,2024-10-17,Leste
+Alimentos,Feijão,291,2223.05,1034.09,2024-10-18,Leste
+Componentes Eletrônicos,Diodo,416,1532.99,9029.8,2024-10-19,Leste
+Componentes Eletrônicos,Transistor,153,3442.43,8342.32,2024-10-20,Sul
+Equipamentos de Automação,Atuador Pneumático,91,2566.75,4966.5,2024-10-21,Norte
+Componentes Eletrônicos,Capacitor,360,2239.16,4776.11,2024-10-22,Oeste
+Alimentos,Trigo,337,4300.96,5274.37,2024-10-23,Norte
+Alimentos,Soja,428,1078.02,7555.45,2024-10-24,Leste
+Equipamentos de Automação,Sensor de Temperatura,163,2867.64,1427.83,2024-10-25,Norte
+Componentes Eletrônicos,Transistor,60,1664.44,8676.77,2024-10-26,Norte
+Alimentos,Milho,332,1834.02,8999.91,2024-10-27,Oeste
+Componentes Eletrônicos,Resistor,112,2351.73,4183.04,2024-10-28,Leste
+Softwares,Software Educativo,223,2856.89,1928.0,2024-10-29,Leste
+Equipamentos de Automação,Sensor de Temperatura,380,4312.48,9229.07,2024-10-30,Sul
+Alimentos,Milho,70,809.37,2800.36,2024-10-31,Oeste
